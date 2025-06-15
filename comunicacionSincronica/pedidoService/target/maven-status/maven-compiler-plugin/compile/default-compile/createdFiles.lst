@@ -1,0 +1,9 @@
+com\ejemplo\pedidoservice\config\FeignConfig.class
+com\ejemplo\pedidoservice\entities\Pedido.class
+com\ejemplo\pedidoservice\client\ProductoClient.class
+com\ejemplo\pedidoservice\PedidoServiceApplication.class
+com\ejemplo\pedidoservice\model\ProductoDTO.class
+com\ejemplo\pedidoservice\entities\PedidoRequest.class
+com\ejemplo\pedidoservice\model\Producto.class
+com\ejemplo\pedidoservice\controller\ProductoClient.class
+com\ejemplo\pedidoservice\controller\PedidoController.class
