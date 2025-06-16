@@ -9,6 +9,6 @@ import java.util.List;
 @FeignClient(name = "producto-service")
 public interface ProductoClient {
 
-    @GetMapping("/productos/productos")
+    @GetMapping("/productos")
     List<ProductoDTO> obtenerProductos();
 }
