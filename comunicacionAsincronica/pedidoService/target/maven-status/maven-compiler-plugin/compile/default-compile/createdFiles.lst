@@ -1,0 +1,5 @@
+com\ejemplo\pedidoservice\PedidoConsumer.class
+com\ejemplo\pedidoservice\ProductoDTO.class
+com\ejemplo\pedidoservice\PedidoserviceasyncApplication.class
+com\ejemplo\pedidoservice\PedidoController.class
+com\ejemplo\pedidoservice\RabbitMQConfig.class

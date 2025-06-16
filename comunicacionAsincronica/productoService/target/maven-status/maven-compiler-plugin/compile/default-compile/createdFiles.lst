@@ -1,0 +1,5 @@
+com\ejemplo\productoservice\ProductoService.class
+com\ejemplo\productoservice\RabbitMQConfig.class
+com\ejemplo\productoservice\ProductoDTO.class
+com\ejemplo\productoservice\ProductoController.class
+com\ejemplo\productoservice\ProductoserviceasyncApplication.class
